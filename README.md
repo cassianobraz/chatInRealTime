@@ -1,2 +1,0 @@
-# chatInRealTime
-project full stack
